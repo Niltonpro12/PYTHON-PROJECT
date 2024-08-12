@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "N:\\PYTHON PROJECT\\NcangazaTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7F89C8-1A4F-4DE4-817B-AB2869814F8D}|NcangazaTest\\NcangazaTest.csproj|n:\\python project\\ncangazatest\\ncangazatest\\ncangazams.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7F89C8-1A4F-4DE4-817B-AB2869814F8D}|NcangazaTest\\NcangazaTest.csproj|solutionrelative:ncangazatest\\ncangazams.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7F89C8-1A4F-4DE4-817B-AB2869814F8D}|NcangazaTest\\NcangazaTest.csproj|n:\\python project\\ncangazatest\\ncangazatest\\ncangazams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7F89C8-1A4F-4DE4-817B-AB2869814F8D}|NcangazaTest\\NcangazaTest.csproj|solutionrelative:ncangazatest\\ncangazams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ncangazams.cs",
+              "DocumentMoniker": "N:\\PYTHON PROJECT\\NcangazaTest\\NcangazaTest\\Ncangazams.cs",
+              "RelativeDocumentMoniker": "NcangazaTest\\Ncangazams.cs",
+              "ToolTip": "N:\\PYTHON PROJECT\\NcangazaTest\\NcangazaTest\\Ncangazams.cs",
+              "RelativeToolTip": "NcangazaTest\\Ncangazams.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T23:04:38.529Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ncangazams.Designer.cs",
+              "DocumentMoniker": "N:\\PYTHON PROJECT\\NcangazaTest\\NcangazaTest\\Ncangazams.Designer.cs",
+              "RelativeDocumentMoniker": "NcangazaTest\\Ncangazams.Designer.cs",
+              "ToolTip": "N:\\PYTHON PROJECT\\NcangazaTest\\NcangazaTest\\Ncangazams.Designer.cs",
+              "RelativeToolTip": "NcangazaTest\\Ncangazams.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAL8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T23:29:50.007Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

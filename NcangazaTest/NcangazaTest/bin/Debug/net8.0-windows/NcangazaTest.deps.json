@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NcangazaTest/1.0.0": {
+        "dependencies": {
+          "Microsoft.CodeCoverage": "17.10.0-preview-24080-01"
+        },
+        "runtime": {
+          "NcangazaTest.dll": {}
+        }
+      },
+      "Microsoft.CodeCoverage/17.10.0-preview-24080-01": {
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.VisualStudio.CodeCoverage.Shim.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "17.1000.224.7903"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NcangazaTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.CodeCoverage/17.10.0-preview-24080-01": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-GL66nih/QwuyUFUYv76kkojvqvDaVvi3G9K9dQopWFFcVWmisIDIavVek8eBUpxsp4YrMI3dTg6mc5WjsuJYlQ==",
+      "path": "microsoft.codecoverage/17.10.0-preview-24080-01",
+      "hashPath": "microsoft.codecoverage.17.10.0-preview-24080-01.nupkg.sha512"
+    }
+  }
+}

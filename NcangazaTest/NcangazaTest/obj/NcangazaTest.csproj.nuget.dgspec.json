@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "N:\\PYTHON PROJECT\\NcangazaTest\\NcangazaTest\\NcangazaTest.csproj": {}
+  },
+  "projects": {
+    "N:\\PYTHON PROJECT\\NcangazaTest\\NcangazaTest\\NcangazaTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "N:\\PYTHON PROJECT\\NcangazaTest\\NcangazaTest\\NcangazaTest.csproj",
+        "projectName": "NcangazaTest",
+        "projectPath": "N:\\PYTHON PROJECT\\NcangazaTest\\NcangazaTest\\NcangazaTest.csproj",
+        "packagesPath": "C:\\Users\\NILTON RPN\\.nuget\\packages\\",
+        "outputPath": "N:\\PYTHON PROJECT\\NcangazaTest\\NcangazaTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\NILTON RPN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "Microsoft.CodeCoverage": {
+              "target": "Package",
+              "version": "[17.10.0-preview-24080-01, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400-preview.0.24324.5/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

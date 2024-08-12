@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VaoHQizpH/w=",
+  "success": true,
+  "projectFilePath": "N:\\PYTHON PROJECT\\NcangazaTest\\NcangazaTest\\NcangazaTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NILTON RPN\\.nuget\\packages\\microsoft.codecoverage\\17.10.0-preview-24080-01\\microsoft.codecoverage.17.10.0-preview-24080-01.nupkg.sha512"
+  ],
+  "logs": []
+}
